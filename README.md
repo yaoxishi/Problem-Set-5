@@ -14,11 +14,11 @@ Note: In this assignment, I am asking you to lay aside any feelings toward eithe
 1.	Load the platforms.csv file containing the 2016 Democratic and Republican party platforms. Note the 2X2 format, where each row is a document, with the party recorded as a separate feature.
 
 2.	Preprocess the platforms by the following criteria (at a minimum):
-a.	Convert to lowercase
-b.	Remove the stopwords
-c.	Remove the numbers
-d.	Remove all punctuation
-e.	Remove the whitespace
+    a.	Convert to lowercase
+    b.	Remove the stopwords
+    c.	Remove the numbers
+    d.	Remove all punctuation
+    e.	Remove the whitespace
 
 3.	Visually inspect your cleaned documents by creating a wordcloud for each major party’s platform. Based on this naive visualization, offer a few-sentence-description of general patterns you see (e.g., What are commonly used words? What are less commonly used words? Can you get a sense of differences between the parties at this early stage? 
 
