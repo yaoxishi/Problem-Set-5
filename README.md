@@ -11,9 +11,9 @@ You decide to employ your computational skills to get explore that which these p
 
 ## PREPROCESSING & (light) EDA
 
-1.	Load the platforms.csv file containing the 2016 Democratic and Republican party platforms. Note the 2X2 format, where each row is a document, with the party recorded as a separate feature.
+1.	Load the `platforms.csv` file containing the 2016 Democratic and Republican party platforms. Note the 2X2 format, where each row is a document, with the party recorded as a separate feature. Also, load the individual party `.txt` files as a corpus.
 
-2.	Preprocess the platforms by the following criteria (at a minimum):
+2.	Create a document-term matrix and preprocess the platforms by the following criteria (at a minimum):
     * Convert to lowercase
     * Remove the stopwords
     * Remove the numbers
