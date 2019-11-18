@@ -9,7 +9,7 @@ You decide to employ your computational skills to get explore that which these p
 
 **Note**: In this assignment, I am asking you to lay aside any feelings toward either party or political actor in America, whether good or bad. Rather, approach the question as unbiased as possible and try hard to let your results inform your response. Regardless of your current political proclivities, I promise I won’t (care or) broadcast what your hypothetical response is in this problem set; its just a fun exercise in “data-drive decision making”. Good luck!
 
-## GENERAL NLP/PREPROCESSING
+## PREPROCESSING & (light) EDA
 
 1.	Load the platforms.csv file containing the 2016 Democratic and Republican party platforms. Note the 2X2 format, where each row is a document, with the party recorded as a separate feature.
 
